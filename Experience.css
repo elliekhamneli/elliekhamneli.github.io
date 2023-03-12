@@ -31,8 +31,9 @@
     color: #1b1b1b;
 }
 
+
 .title-container {
-    font-family: 'Playfair Display', serif;
+    font-family: monospace, serif;
     padding-left:5%;
 }
 
